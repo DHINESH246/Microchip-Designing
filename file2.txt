@@ -1,1 +1,2 @@
 another doc for test
+trying the status command
